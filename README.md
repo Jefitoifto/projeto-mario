@@ -23,4 +23,4 @@ Nesse projeto vou apresentar os conceitos básicos de html5 e css3, com a criaç
 -E por fim adicionei as imagens, vídeo, título e demais informações que compõem a página.
 
 **link do projeto**
-<a href="https://jefitoifto.github.io/projeto-mario/src/index.html">
+https://jefitoifto.github.io/projeto-mario/src/index.html
