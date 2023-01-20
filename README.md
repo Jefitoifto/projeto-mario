@@ -34,3 +34,5 @@ Nesse projeto vou apresentar os conceitos básicos de html5 e css3, com a criaç
 -Adicionei novas fontes e bordas, alinhei todo o conteúdo
 -Algumas decorações inclusive descobri o fundo linear-gradient, que foi muito importante para o meu vídeo de fundo ficar mais opaco, e não atrapalhar a navegação. (Site gradient css)
 - Responsivo também finalizado
+
+PRÓXIMO PASSO JavaScript
