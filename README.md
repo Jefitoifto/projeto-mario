@@ -16,8 +16,10 @@ Nesse projeto vou apresentar os conceitos básicos de html5 e css3, com a criaç
 - VScode
 
 ## 📊 planning
+<img src="./src/imagens/planejamento.jpg">
 
 **HTML**
+
 -Primeiramente, montei a estrutura separando por as tags cada parte do site.
 -Em seguida fui adicionando atributos às tags.
 -E por fim adicionei as imagens, vídeo, título e demais informações que compõem a página.
