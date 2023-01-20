@@ -1,5 +1,8 @@
 # projeto-mario
 
+**link do projeto**
+https://jefitoifto.github.io/projeto-mario/src/index.html
+
 **Em construção**🚧
 
 <h1>
@@ -24,5 +27,9 @@ Nesse projeto vou apresentar os conceitos básicos de html5 e css3, com a criaç
 -Em seguida fui adicionando atributos às tags.
 -E por fim adicionei as imagens, vídeo, título e demais informações que compõem a página.
 
-**link do projeto**
-https://jefitoifto.github.io/projeto-mario/src/index.html
+**CSS**
+
+-Iniciei a estilização da página 20/01
+-Foram adicionados vídeo, interaçã com os botões (hover) e o conteúdo foi totalmente centralizado 
+-Adicionei novas fontes e bordas, alinhei todo o conteúdo
+-Algumas decorações inclusive descobri o fundo linear-gradient, que foi muito importante para o meu vídeo de fundo ficar mais opaco, e não atrapalhar a navegação. (Site gradient css)
