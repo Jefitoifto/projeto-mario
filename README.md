@@ -36,3 +36,11 @@ Nesse projeto vou apresentar os conceitos básicos de html5 e css3, com a criaç
 - Responsivo também finalizado
 
 PRÓXIMO PASSO JavaScript
+
+23/01
+
+
+JavaScript finalizado.
+-modal implantada
+-ao clicar em trailer, abrirá a modal com o vídeo do trailer.
+Projeto Finalizado
