@@ -1,11 +1,11 @@
 /* Aplicando regras de alteração de tela */
-@media (max-width: 960px){
+@media (max-width: 1220px){
     body{
         background-color: #07d8f8;
     }
 
     .fundo-video{
-        display: none;
+        display: flex;
     }
     .container{
         flex-wrap: wrap;
