@@ -33,7 +33,7 @@ body{
 }
 /* animação menu ao passar o cursor */
 .cabecalho nav li a:hover{
-    background-color: brown;
+    background-color: rgb(124, 38, 38);
 }
 
 .container{

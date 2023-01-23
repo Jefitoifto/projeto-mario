@@ -1,5 +1,5 @@
 /* Aplicando regras de alteração de tela */
-@media (max-width: 1200px){
+@media (max-width: 960px){
     body{
         background-color: #07d8f8;
     }
